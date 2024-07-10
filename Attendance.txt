@@ -1,0 +1,49 @@
+[
+    {
+  "_id": {
+    "ObjectId": "668e4b75312f105b5b4cb7b1"
+  },
+  "user_id": 1,
+  "topic_id": 1,
+  "attended": "true"
+},
+{
+  "_id": {
+    "ObjectId": "668e4c12312f105b5b4cb7b2"
+  },
+  "user_id": 2,
+  "topic_id": 2,
+  "attended": "false"
+},
+{
+  "_id": {
+    "ObjectId": "668e4c12312f105b5b4cb7b3"
+  },
+  "user_id": 3,
+  "topic_id": 3,
+  "attended": "true"
+},
+{
+  "_id": {
+    "ObjectId": "668e4c12312f105b5b4cb7b4"},
+  "user_id": 4,
+  "topic_id": 2,
+  "attended": "true"
+},
+{
+  "_id": {
+    "ObjectId": "668e4c12312f105b5b4cb7b5"
+  },
+  "user_id": 5,
+  "topic_id": 4,
+  "attended": "false"
+},
+{
+  "_id": {
+    "ObjectId": "668e4c12312f105b5b4cb7b6"
+  },
+  "user_id": 6,
+  "topic_id": 5,
+  "attended": "true"
+},
+]

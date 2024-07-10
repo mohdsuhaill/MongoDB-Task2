@@ -1,0 +1,32 @@
+[
+    {
+  _id: ObjectId('668e6c98312f105b5b4cb7bf'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a1'),
+  problems_solved: 30
+},
+{
+  _id: ObjectId('668e6c98312f105b5b4cb7c0'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a2'),
+  problems_solved: 20
+},
+{
+  _id: ObjectId('668e6c98312f105b5b4cb7c1'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a3'),
+  problems_solved: 40
+},
+{
+  _id: ObjectId('668e6c98312f105b5b4cb7c2'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a4'),
+  problems_solved: 15
+},
+{
+  _id: ObjectId('668e6c98312f105b5b4cb7c3'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a5'),
+  problems_solved: 25
+},
+{
+  _id: ObjectId('668e6c98312f105b5b4cb7c4'),
+  user_id: ObjectId('668e453f312f105b5b4cb7a6'),
+  problems_solved: 20
+}
+]

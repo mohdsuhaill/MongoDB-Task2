@@ -1,0 +1,56 @@
+[
+    {
+  _id: ObjectId('668e522c312f105b5b4cb7b9'),
+  task_id: 1,
+  topic_id: 1,
+  user_id: 1,
+  task_name: 'html&css',
+  task_date: '16-10-2020',
+  submitted: 'true'
+},
+{
+  _id: ObjectId('668e522c312f105b5b4cb7ba'),
+  task_id: 2,
+  topic_id: 2,
+  user_id: 2,
+  task_name: 'Redux',
+  task_date: '19-10-2020',
+  submitted: 'false'
+},
+{
+  _id: ObjectId('668e522c312f105b5b4cb7bb'),
+  task_id: 2,
+  topic_id: 2,
+  user_id: 3,
+  task_name: 'Redux',
+  task_data: '19-10-2020',
+  submitted: 'true'
+},
+{
+  _id: ObjectId('668e522c312f105b5b4cb7bc'),
+  task_id: 3,
+  topic_id: 3,
+  user_id: 4,
+  task_name: 'mongoDB',
+  task_data: '22-10-2020',
+  submitted: 'false'
+},
+{
+  _id: ObjectId('668e522c312f105b5b4cb7bd'),
+  task_id: 2,
+  topic_id: 2,
+  user_id: 5,
+  task_name: 'Redux',
+  task_data: '19-10-2020',
+  submitted: 'false'
+},
+{
+  _id: ObjectId('668e522c312f105b5b4cb7be'),
+  task_id: 3,
+  topic_id: 3,
+  user_id: 6,
+  task_name: 'mongoDB',
+  task_data: '22-10-2020',
+  submitted: 'true'
+}
+]
